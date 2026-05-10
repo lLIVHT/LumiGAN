@@ -1,2 +1,8 @@
 # LumiGAN
-Our code will be open-sourced after the paper is accepted.
+### Testing process
+
+put latest_net_G_A.pth into `./checkpoints/best`
+
+Run
+
+```python scripts/script.py --predict```
