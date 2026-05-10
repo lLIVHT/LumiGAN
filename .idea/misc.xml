@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Remote Python 3.8.10 (sftp://root@connect.yza1.seetacloud.com:10056/root/miniconda3/bin/python3)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="diff_dl" project-jdk-type="Python SDK" />
+</project>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true">
+    <file url="file://$PROJECT_DIR$/README.md" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/data/base_dataset.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/data/image_folder.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/data/unaligned_dataset.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/models/base_model.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/models/networks.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/models/single_model.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/options/base_options.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/options/test_options.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/predict.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/train.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/util/util.py" charset="GBK" />
+  </component>
+</project>
